@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tag</key>
+	<string>105</string>
+	<key>SuperViewInfo</key>
+	<dict>
+		<key>size</key>
+		<string>{600, 600}</string>
+	</dict>
+	<key>SubViewArray</key>
+	<array>
+		<dict>
+			<key>ViewTag</key>
+			<string>51</string>
+			<key>Top</key>
+			<string>0</string>
+			<key>Left</key>
+			<string>0</string>
+			<key>Bottom</key>
+			<string>52.1,53.1</string>
+			<key>Right</key>
+			<string>0</string>
+			<key>pointArray</key>
+			<array>
+				<string>{0,0}</string>
+				<string>{600,0}</string>
+				<string>{600,300}</string>
+				<string>{0,300}</string>
+			</array>
+		</dict>
+		<dict>
+			<key>ViewTag</key>
+			<string>52</string>
+			<key>Top</key>
+			<string>51.3,53.1</string>
+			<key>Left</key>
+			<string>0</string>
+			<key>Bottom</key>
+			<string>0</string>
+			<key>Right</key>
+			<string>53.2</string>
+			<key>pointArray</key>
+			<array>
+				<string>{0,300}</string>
+				<string>{300,300}</string>
+				<string>{300,600}</string>
+				<string>{0,600}</string>
+			</array>
+		</dict>
+		<dict>
+			<key>ViewTag</key>
+			<string>53</string>
+			<key>Top</key>
+			<string>51.3,52.1</string>
+			<key>Left</key>
+			<string>52.4</string>
+			<key>Bottom</key>
+			<string>0</string>
+			<key>Right</key>
+			<string>0</string>
+			<key>pointArray</key>
+			<array>
+				<string>{300,300}</string>
+				<string>{600,300}</string>
+				<string>{600,600}</string>
+				<string>{300,600}</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
